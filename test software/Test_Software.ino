@@ -1,7 +1,7 @@
 /*
  * 
  * Test Software 
- * Valencia - 2020 
+ * 
  * 
  * SENSOR - OMRON E2A-...-M12 C1 M2, NPN, NO (Normally Open) 
  * The cables of the sensor there are three cables which are that 
